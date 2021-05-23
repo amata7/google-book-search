@@ -7,6 +7,7 @@ import {
 import axios from "axios";
 import SavedPage from "./components/SavedPage";
 import SearchPage from "./components/SearchPage";
+import Navbar from "./components/Navbar";
 import { useEffect } from "react";
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
   // });
   return (
     <Router>
+      <Navbar />
       <Switch>
         <Route exact path="/">
           <SearchPage />
