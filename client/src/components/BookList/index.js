@@ -4,9 +4,9 @@ import { items as books } from "../../fakeBooks.json";
 function BookList() {
   return (
     <Section title="Results">
-      <BookCard book={books[0]} />
-      <BookCard book={books[1]} />
-      <BookCard book={books[2]} />
+      {books.map((book) => (
+        <BookCard key={book.id} book={book} />
+      ))}
     </Section>
   );
 }

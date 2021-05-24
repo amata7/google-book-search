@@ -14,13 +14,13 @@ function BookCard({ book }) {
             <div className="d-flex justify-content-end">
               <a
                 href={infoLink}
-                class="btn btn-info mr-3"
+                className="btn btn-info mr-3"
                 rel="noopener noreferrer"
                 target="_blank"
               >
                 View
               </a>
-              <button class="btn btn-success">Save</button>
+              <button className="btn btn-success">Save</button>
             </div>
           </div>
         </div>
