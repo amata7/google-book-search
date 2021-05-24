@@ -1,26 +1,22 @@
-function BookCard() {
+function BookCard({ book }) {
+  const { title, authors, description, imageLinks, infoLink } = book.volumeInfo;
   return (
     <div className="card mb-3">
       <div className="row no-gutters">
         <div className="col-md-3">
-          <img
-            src="http://books.google.com/books/content?id=KtrATnRZOlMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            alt="thumbnail image"
-          />
+          <img src={imageLinks.thumbnail} alt={`thumbnail of ${title}`} />
         </div>
         <div className="col-md-9">
           <div className="card-body">
-            <h5 className="card-title">Start Quilting</h5>
-            <p className="card-text">Alex Anderson</p>
-            <p className="card-text">
-              An expanded edition of the author's classic beginners' guide to
-              quilting discusses equipment, fabric, tools, and techniques while
-              offering patterns for six simple block quilts. Original.
-            </p>
+            <h5 className="card-title">{title}</h5>
+            <p className="card-text">{authors.join(", ")}</p>
+            <p className="card-text">{description}</p>
             <div className="d-flex justify-content-end">
               <a
-                href="http://books.google.com/books?id=KtrATnRZOlMC&dq=quilting&hl=&source=gbs_api"
+                href={infoLink}
                 class="btn btn-info mr-3"
+                rel="noopener noreferrer"
+                target="_blank"
               >
                 View
               </a>
