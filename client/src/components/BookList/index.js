@@ -1,12 +1,12 @@
 import BookCard from "../BookCard";
-
+import Section from "../Section";
 function BookList() {
   return (
-    <div>
+    <Section title="Results">
       <BookCard />
       <BookCard />
       <BookCard />
-    </div>
+    </Section>
   );
 }
 

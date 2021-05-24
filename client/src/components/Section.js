@@ -1,8 +1,8 @@
 function Section({ title, children }) {
   return (
-    <div classname="card">
-      <div classname="card-body">
-        <h2 classname="card-title">{title}</h2>
+    <div className="card">
+      <div className="card-body">
+        <h2 className="card-title">{title}</h2>
         {children}
       </div>
     </div>
