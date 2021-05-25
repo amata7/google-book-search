@@ -1,6 +1,6 @@
 import Section from "../Section.js";
 
-function SearchForm({ search, onSearchChange, onSubmit }) {
+function SearchForm({ search, onSearchChange, onSubmit, booksLoading }) {
   return (
     <Section title="Book Search">
       <form className="d-flex flex-column" onSubmit={onSubmit}>
@@ -12,9 +12,12 @@ function SearchForm({ search, onSearchChange, onSubmit }) {
             id="search"
             value={search}
             onChange={onSearchChange}
+            disabled={booksLoading}
           />
         </div>
-        <button className="btn btn-primary ml-auto">Search</button>
+        <button className="btn btn-primary ml-auto" disabled={booksLoading}>
+          Search
+        </button>
       </form>
     </Section>
   );
