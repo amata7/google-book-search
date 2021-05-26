@@ -11,12 +11,12 @@ import Navbar from "./components/Navbar";
 import { useEffect } from "react";
 
 function App() {
-  // useEffect(() => {
-  //   axios
-  //     .get("https://www.googleapis.com/books/v1/volumes?q=quilting")
-  //     .then(console.log)
-  //     .catch(console.log);
-  // });
+  useEffect(() => {
+    axios
+      .get("https://www.googleapis.com/books/v1/volumes?q=quilting")
+      .then(console.log)
+      .catch(console.log);
+  });
   return (
     <Router>
       <Navbar />

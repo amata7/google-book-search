@@ -1,7 +1,7 @@
 const apiRouter = require("express").Router();
 const { Book } = require("../models");
 
-apiRouter.post("/", async (req, res) => {
+apiRouter.post("/books", async (req, res) => {
   try {
     const { title, authors, description, image, link } = req.body;
     const book = await Book.create({
