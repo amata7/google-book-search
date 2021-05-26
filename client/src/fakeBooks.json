@@ -1,0 +1,798 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 2199,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "KtrATnRZOlMC",
+        "etag": "yY2pm1I4clo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KtrATnRZOlMC",
+        "volumeInfo": {
+          "title": "Start Quilting",
+          "subtitle": "Everything First-Time Quilters Need to Succeed; 8 Quick Projects--Most in 4 Sizes",
+          "authors": [
+            "Alex Anderson"
+          ],
+          "publisher": "C&T Publishing Inc",
+          "publishedDate": "2009",
+          "description": "An expanded edition of the author's classic beginners' guide to quilting discusses equipment, fabric, tools, and techniques while offering patterns for six simple block quilts. Original.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781571208125"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1571208127"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 48,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KtrATnRZOlMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KtrATnRZOlMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "un",
+          "previewLink": "http://books.google.com/books?id=KtrATnRZOlMC&printsec=frontcover&dq=quilting&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=KtrATnRZOlMC&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Start_Quilting.html?hl=&id=KtrATnRZOlMC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=KtrATnRZOlMC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "An expanded edition of the author&#39;s classic beginners&#39; guide to quilting discusses equipment, fabric, tools, and techniques while offering patterns for six simple block quilts. Original."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "s4UdKQEACAAJ",
+        "etag": "JUa5Zfxr6u4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/s4UdKQEACAAJ",
+        "volumeInfo": {
+          "title": "Utility Quilting",
+          "subtitle": "Simple Solutions for Quick Hand Quilting",
+          "authors": [
+            "Carolyn Forster"
+          ],
+          "publisher": "Landauer Books",
+          "publishedDate": "2011",
+          "description": "\"Easy, stress free ways to quickly hand quilt your quilts\"--Cover.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1935726145"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781935726142"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 128,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=s4UdKQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=s4UdKQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "un",
+          "previewLink": "http://books.google.com/books?id=s4UdKQEACAAJ&dq=quilting&hl=&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=s4UdKQEACAAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Utility_Quilting.html?hl=&id=s4UdKQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=s4UdKQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Utility Quilting--the ideal quilting method for a contemporary quilter--holds the layers together using simple designs, bigger stitches and thicker threads--providing the satisfaction of hand quilting easily and quickly."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "hU8uuQEACAAJ",
+        "etag": "zn8UnAp0Tuw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/hU8uuQEACAAJ",
+        "volumeInfo": {
+          "title": "Beginner's Guide to Quilting",
+          "subtitle": "16 Projects to Learn to Quilt",
+          "authors": [
+            "Elizabeth Betts"
+          ],
+          "publisher": "David & Charles",
+          "publishedDate": "2013-06-07",
+          "description": "Learn how to make beautiful quilts with this comprehensive guide to patchwork and quilting for beginners. Covers all aspects of quilting from piecing and applique to quilting and binding. Choose from 16 simple projects, each focusing on a different technique, from bags and cushions to table mats, wall hangings and bed quilts.Clear illustrations and step-by-step instructions accompany each project, making them all suitable for even a complete novice. The book also includes a quilting glossary explaining common quilting and sewing terms.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1446302547"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781446302545"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 128,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hU8uuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hU8uuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "un",
+          "previewLink": "http://books.google.com/books?id=hU8uuQEACAAJ&dq=quilting&hl=&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=hU8uuQEACAAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Beginner_s_Guide_to_Quilting.html?hl=&id=hU8uuQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=hU8uuQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Learn how to make beautiful quilts with this comprehensive guide to patchwork and quilting for beginners."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "xMT4sw3KU-AC",
+        "etag": "F9AhsoSPhvU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/xMT4sw3KU-AC",
+        "volumeInfo": {
+          "title": "Hawaiian Quilting",
+          "subtitle": "Instructions and Full-Size Patterns for 20 Blocks",
+          "authors": [
+            "Elizabeth Root"
+          ],
+          "publisher": "Courier Corporation",
+          "publishedDate": "1989-01-01",
+          "description": "Hawaiian quilts, which date back to the 19th century, are not only objects of practical necessity, but a form of artistic expression. This book offers detailed instructions and 20 full-size quilting blocks — each 18 inches square — for creating exotic floral motifs including orchid, water lily, hibiscus, and other exotic island vegetation.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "048625948X"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780486259482"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 48,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.2.3.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=xMT4sw3KU-AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=xMT4sw3KU-AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "un",
+          "previewLink": "http://books.google.com/books?id=xMT4sw3KU-AC&printsec=frontcover&dq=quilting&hl=&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=xMT4sw3KU-AC&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Hawaiian_Quilting.html?hl=&id=xMT4sw3KU-AC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Hawaiian_Quilting-sample-pdf.acsm?id=xMT4sw3KU-AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=xMT4sw3KU-AC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "This book offers detailed instructions and 20 full-size quilting blocks — each 18 inches square — for creating exotic floral motifs including orchid, water lily, hibiscus, and other exotic island vegetation."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "4CFjDwAAQBAJ",
+        "etag": "fAYJ4kgzqp0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/4CFjDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Quilting Modern",
+          "subtitle": "Techniques and Projects for Improvisational Quilts",
+          "authors": [
+            "Jacquie Gering",
+            "Katie Pedersen"
+          ],
+          "publisher": "Penguin",
+          "publishedDate": "2013-08-14",
+          "description": "From two pioneers of today's modern quilting movement, Quilting Modern teaches quilters how to use improvisational techniques to make graphic, contemporary quilts and quilted projects. Explore seven core techniques and multiple projects using each technique--all presented with detailed instructions. Also included is step-by-step direction from Jacquie Gering and Katie Pedersen on tools, materials, and quilting basics, as well as expert advice on color and design. New and seasoned quilting artists will love making stunning bed, wall hanging, pillowcase, and table accessory quilts with this must-have resource. Quilting Modern is a field guide for quilters who strive to break free from tradition and yearn to explore improvisational work. Quilters can make the 21 projects in the book, but will also come away with the new knowledge and skills to apply to their own unique designs. In Quilting Modern, quilters will find the support, structure, and encouragement they need to explore their own creativity and artistic vision.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781620331538"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1620331535"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 176,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.4.3.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4CFjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4CFjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=4CFjDwAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=4CFjDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4CFjDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 17.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 17.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=4CFjDwAAQBAJ&rdid=book-4CFjDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 17990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 17990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Quilting_Modern-sample-epub.acsm?id=4CFjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=4CFjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Quilters can make the 21 projects in the book, but will also come away with the new knowledge and skills to apply to their own unique designs."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "tC2EoAEACAAJ",
+        "etag": "RueZbIMojZE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/tC2EoAEACAAJ",
+        "volumeInfo": {
+          "title": "Step-by-Step Free-Motion Quilting",
+          "subtitle": "Turn 9 Simple Shapes Into 80+ Distinctive Designs",
+          "authors": [
+            "Christina Cameli"
+          ],
+          "publisher": "C & T Pub",
+          "publishedDate": "2015-01-01",
+          "description": "Improve your free-motion quilting as you sketch new designs - one simple shape at a time. Christina Cameli returns to help you quilt unique patterns, using your home machine or longarm.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1617450243"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781617450242"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 192,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=tC2EoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=tC2EoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "un",
+          "previewLink": "http://books.google.com/books?id=tC2EoAEACAAJ&dq=quilting&hl=&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=tC2EoAEACAAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Step_by_Step_Free_Motion_Quilting.html?hl=&id=tC2EoAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=tC2EoAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Turn simple shapes into fresh free-motion quilt designs. Includes more than 80 quilting designs that are perfect for your longarm or domestic sewing machine."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "iKoXvgAACAAJ",
+        "etag": "OGsbmJQKOrc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/iKoXvgAACAAJ",
+        "volumeInfo": {
+          "title": "Journey to Inspired Art Quilting",
+          "authors": [
+            "Jean Wells"
+          ],
+          "publisher": "C&T Publishing Inc",
+          "publishedDate": "2012",
+          "description": "Expand your creative horizons and embrace the process of developing your design skills using your own intuition. Expert art quilter Jean Wells provides you with more design guidelines and new exercises to hone your natural intuitive skills, then she encourages you to go out there and express yourself! Packed with inspiring quilt images, this book walks you through effective approaches to art quilting from journaling your ideas to unifying your design.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1607055805"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781607055808"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 111,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=iKoXvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=iKoXvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "un",
+          "previewLink": "http://books.google.com/books?id=iKoXvgAACAAJ&dq=quilting&hl=&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=iKoXvgAACAAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Journey_to_Inspired_Art_Quilting.html?hl=&id=iKoXvgAACAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=iKoXvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Packed with inspiring quilt images, this book walks you through effective approaches to art quilting from journaling your ideas to unifying your design."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "heFRCwAAQBAJ",
+        "etag": "T5c+jCGUHqY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/heFRCwAAQBAJ",
+        "volumeInfo": {
+          "title": "Amish Quilting Patterns",
+          "authors": [
+            "Gwen Marston",
+            "Joe Cunningham"
+          ],
+          "publisher": "Courier Corporation",
+          "publishedDate": "1987-01-01",
+          "description": "Briefly describes the history of Amish quilts, explains how to make and use patterns, and provides a selection of traditional quilting designs",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780486253268"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0486253260"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 12,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.4.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=heFRCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=heFRCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "un",
+          "previewLink": "http://books.google.com/books?id=heFRCwAAQBAJ&printsec=frontcover&dq=quilting&hl=&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=heFRCwAAQBAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Amish_Quilting_Patterns.html?hl=&id=heFRCwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=heFRCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Briefly describes the history of Amish quilts, explains how to make and use patterns, and provides a selection of traditional quilting designs"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "D5hQDEPeuwoC",
+        "etag": "rVE88etf87Q",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/D5hQDEPeuwoC",
+        "volumeInfo": {
+          "title": "Beginner’s Guide to Free-Motion Quilting",
+          "subtitle": "50+ Visual Tutorials to Get You Started • Professional-Quality Results on Your Home Machine",
+          "authors": [
+            "Natalia Bonner"
+          ],
+          "publisher": "C&T Publishing Inc",
+          "publishedDate": "2012-09-01",
+          "description": "Photo tutorials show stitching in action for 50+ free-motion quilting designs to create modern quilts with classic style! Popular blogger and designer, Natalia Bonner, illustrates her instructions with detailed photos that make it easier to get beautiful results on your home sewing machine. Learn how to quilt all-over, as filler, on borders, and on individual blocks…using loops and swirls, feathers and flames, flowers and vines, pebbles and more! Includes tips for choosing batting and thread, layering and basting, starting and stopping, and prepping your machine are included. After you’ve practiced, show off your new skills with six geometric quilt projects.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781607055389"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1607055384"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 176,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=D5hQDEPeuwoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=D5hQDEPeuwoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=D5hQDEPeuwoC&printsec=frontcover&dq=quilting&hl=&cd=9&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=D5hQDEPeuwoC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=D5hQDEPeuwoC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 17.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 17.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=D5hQDEPeuwoC&rdid=book-D5hQDEPeuwoC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 17990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 17990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Beginner_s_Guide_to_Free_Motion_Quilting-sample-epub.acsm?id=D5hQDEPeuwoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Beginner_s_Guide_to_Free_Motion_Quilting-sample-pdf.acsm?id=D5hQDEPeuwoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=D5hQDEPeuwoC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Popular blogger and designer, Natalia Bonner, illustrates her instructions with detailed photos that make it easier to get beautiful results on your home sewing machine."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Jr8gtAEACAAJ",
+        "etag": "u+zSL93Mc0A",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Jr8gtAEACAAJ",
+        "volumeInfo": {
+          "title": "Modern Quilting",
+          "subtitle": "25 step-by-step projects for cool and contemporary quilts and patchwork",
+          "authors": [
+            "Michael Caputo"
+          ],
+          "publisher": "CICO Books",
+          "publishedDate": "2018-10-09",
+          "description": "Follow Michael Caputo's tutorials for every skill level to make gorgeous quilts and patchwork with 25 modern designs in an array of colorful fabrics. Follow Michael Caputo's tutorials for every skill level to make gorgeous quilts and patchwork with 25 modern designs in an array of colorful fabrics. Quilting is an ancient craft which has many devoted makers eager for modern and innovative ideas, a call which has been answered here. If you’re a beginner, get started with a simple project such as a seat pillow or some bright coasters and placemats, then practice your skills further with a wonderful color wheel mini quilt, to bring an exciting burst of color into any home. There are full-size quilts which are perfect for more confident quilters, as you can really let your creativity take charge in choosing the fabrics and colors. And don’t forget the reverse—one of Michael’s trademarks is that the wrong side of the quilt is just as splendid as the right side. All the templates you'll need are included and there is a techniques section, as well as clear step-by-step artworks, to guide you. All you need to do is choose some fun fabrics and you’re ready to begin working on these inventive makes.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1782496416"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781782496410"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 128,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Jr8gtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Jr8gtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "un",
+          "previewLink": "http://books.google.com/books?id=Jr8gtAEACAAJ&dq=quilting&hl=&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=Jr8gtAEACAAJ&dq=quilting&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Modern_Quilting.html?hl=&id=Jr8gtAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Jr8gtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Follow Michael Caputo&#39;s tutorials for every skill level to make gorgeous quilts and patchwork with 25 modern designs in an array of colorful fabrics."
+        }
+      }
+    ]
+  }
