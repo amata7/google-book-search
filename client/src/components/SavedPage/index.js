@@ -1,5 +1,16 @@
+import Hero from "../Hero";
+import Wrapper from "../Wrapper";
+import SavedCard from "../SavedCard";
+
 function SavedPage() {
-  return <h1>Saved</h1>;
+  return (
+    <Wrapper>
+      <Hero />
+      <SavedCard />
+      <SavedCard />
+      <SavedCard />
+    </Wrapper>
+  );
 }
 
 export default SavedPage;
