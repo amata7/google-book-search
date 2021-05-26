@@ -1,5 +1,6 @@
 import axios from "axios";
 import { useState } from "react";
+import { searchForBooks } from "../../util/googleBooksApi";
 import Hero from "../Hero";
 import SearchForm from "../SearchForm";
 import BookList from "../BookList";
@@ -16,11 +17,9 @@ function SearchPage() {
 
       const trimmedSearch = search.trim();
       if (!trimmedSearch || booksLoading) return;
-
-      const url = `https://www.googleapis.com/books/v1/volumes?q=${trimmedSearch}`;
       setBooksLoading(true);
-      const res = await axios.get(url);
-      setBooks(res.data.items || []);
+      const books = await searchForBooks(trimmedSearch);
+      setBooks(books);
       setBooksLoading(false);
     } catch (error) {
       console.log(error);
